@@ -35,3 +35,4 @@ Student: Isabella Franco
 
 Alex succesfully cloned the repo
 
+Oscar successfully cloned the repo
